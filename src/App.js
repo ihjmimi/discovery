@@ -221,7 +221,7 @@ function App() {
         <p>24FW LIBERTY & CRUST SERIES</p>
         <p>일상에서도 활용도 높은 아웃도어 가방</p>
       </section>
-
+{/* tv */}
       <section className="tv">
 
         <div className="tvtxt">
